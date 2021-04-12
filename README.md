@@ -23,7 +23,7 @@ This package includes all the NPCs, Vehicles and Weapons described in the scenar
 
 You should be able to install this by clicking  `Install World` within Foundry VTT on the **Game Worlds** tab, and providng the [manifest URL](https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/world.json)
 
-It has both the [WWII:OWB](https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb/master/src/system.json) and [WWII:OWB OGL content pack](https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/src/module.json) as dependencies, which should installed when asked.
+It has both the [WWII:OWB](https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb/master/src/system.json) and [WWII:OWB OGL content pack](https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/src/module.json) as dependencies, which should be installed when asked.
 
 ## License
 
