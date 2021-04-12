@@ -6,6 +6,8 @@
 
 The Allies are planning a large raid on the fictional port city of St. Croix la Mer and the characters must destroy a key set of crossings in order to prevent German reinforcements from reaching the coast.
 
+![login](assets/login.jpg)
+
 ## Package Description
 
 Welcome to **Resistance at the Ponteville Bridge**, the introductory scenario included with the [WWII: Operation WhiteBox™ rules](https://www.drivethrurpg.com/product/196284/OWB001-WWII-Operation-WhiteBox) from Small Niche Games™.
@@ -13,6 +15,9 @@ Welcome to **Resistance at the Ponteville Bridge**, the introductory scenario in
 The mission is a *mini-sandbox* that includes sabotage as well as opportunities for combat and roleplaying, so a good mix of Character Classes is suggested.
 
 This package includes all the NPCs, Vehicles and Weapons described in the scenario, briefing Journal entries and Maps, and Scenes for the Ponteville village, and the three floors of the Ponteville Tavern.
+
+![login](assets/pregens.jpg)
+![login](assets/tavern.jpg)
 
 ## Installing
 
