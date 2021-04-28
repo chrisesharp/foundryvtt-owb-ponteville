@@ -16,8 +16,8 @@ The mission is a *mini-sandbox* that includes sabotage as well as opportunities 
 
 This package includes all the NPCs, Vehicles and Weapons described in the scenario, briefing Journal entries and Maps, and Scenes for the Ponteville village, and the three floors of the Ponteville Tavern.
 
-![login](assets/pregens.jpg)
-![login](assets/tavern.jpg)
+![pregens](assets/pregens.jpg)
+![tavern](assets/tavern.jpg)
 
 ## Installing
 
