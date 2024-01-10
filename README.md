@@ -32,3 +32,5 @@ WWII: Operation WhiteBox™ is a trademark of Peter C. Spahn.\
 Small Niche Games™ is a trademark of Peter C. Spahn.
 
 This scenario textual content is copyright Small Niche Games™, and is reproduced by kind permission of Peter C. Spahn. Used with permission under license.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6T5AXX)
