@@ -21,9 +21,13 @@ This package includes all the NPCs, Vehicles and Weapons described in the scenar
 
 ## Installing
 
-You should be able to install this by clicking  `Install World` within Foundry VTT on the **Game Worlds** tab, and providng the [manifest URL](https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/world.json)
+You should be able to install this by clicking  `Install Module` within Foundry VTT on the **Add-on Modules** tab, and providng the [manifest URL](https://github.com/chrisesharp/foundryvtt-owb-ponteville/releases/latest/download/module.json)
 
-It has both the [WWII:OWB](https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb/master/src/system.json) and [WWII:OWB OGL content pack](https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/src/module.json) as dependencies, which should be installed when asked.
+It has both the [WWII:OWB](https://github.com/chrisesharp/foundryvtt-owb/releases/latest/download/system.json) and [WWII:OWB OGL content pack](hhttps://github.com/chrisesharp/foundryvtt-owb-content/releases/latest/download/module.json) as dependencies, which should be installed when asked.
+
+When you have installed the module, now create a **New World** and enable this module within it, then import the Adventure from the adventure compendium.
+
+![adventure](assets/compendium.png)
 
 ## License
 
