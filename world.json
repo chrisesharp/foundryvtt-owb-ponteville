@@ -3,10 +3,10 @@
   "title": "Ponteville Bridge",
   "system": "owb",
   "description": "<p>Resistance at the Ponteville Bridge is an introductory support mission for a group of three to six operatives of 1st-3rd level.</p>\n<p>The Allies are planning a large raid on the fictional port city of St. Croix la Mer and the characters must destroy a key set of crossings in order to prevent German reinforcements from reaching the coast.</p>\n<p>The mission is a \"mini-sandbox\" that includes sabotage as well as opportunities for combat and roleplaying, so a good mix of Character Classes is suggested.</p>\n<p> </p>\n<p>This scenario textual content are copyright Small Niche Games TM, and are reproduced by kind permission of Peter C. Spahn.</p>",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": 10,
-    "verified": 12
+    "verified": 13
   },
   "scripts": [],
   "esmodules": [],
@@ -23,7 +23,7 @@
   "socket": false,
   "url": "https://github.com/chrisesharp/foundryvtt-owb-ponteville",
   "manifest": "https://github.com/chrisesharp/foundryvtt-owb-ponteville/releases/download/latest/world.json",
-  "download": "https://github.com/chrisesharp/foundryvtt-owb-ponteville/releases/latest/download/owb-ponteville-v1.0.2.zip",
+  "download": "https://github.com/chrisesharp/foundryvtt-owb-ponteville/releases/latest/download/owb-ponteville-v1.0.4.zip",
   "license": "",
   "readme": "",
   "bugs": "",
@@ -44,6 +44,5 @@
         "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-content/master/src/module.json"
       }
     ]
-  },
-  "availability": 0
+  }
 }
