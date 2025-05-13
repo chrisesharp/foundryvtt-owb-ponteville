@@ -4,6 +4,7 @@
   "system": "owb",
   "description": "<p>Resistance at the Ponteville Bridge is an introductory support mission for a group of three to six operatives of 1st-3rd level.</p>\n<p>The Allies are planning a large raid on the fictional port city of St. Croix la Mer and the characters must destroy a key set of crossings in order to prevent German reinforcements from reaching the coast.</p>\n<p>The mission is a \"mini-sandbox\" that includes sabotage as well as opportunities for combat and roleplaying, so a good mix of Character Classes is suggested.</p>\n<p> </p>\n<p>This scenario textual content are copyright Small Niche Games TM, and are reproduced by kind permission of Peter C. Spahn.</p>",
   "version": "1.0.4",
+  "coreVersion": "10",
   "compatibility": {
     "minimum": 10,
     "verified": 13
