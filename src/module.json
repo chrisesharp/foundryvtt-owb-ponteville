@@ -1,7 +1,7 @@
 {
   "id": "owb-ponteville-bridge",
   "title": "OWB Ponteville Bridge",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "compatibility": {
     "minimum": "10",
     "verified": "13"
@@ -45,5 +45,5 @@
   ],
   "url": "https://github.com/chrisesharp/foundryvtt-owb-ponteville",
   "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/src/module.json",
-  "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/package/owb-ponteville-bridge-v1.0.5.zip"
+  "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/package/owb-ponteville-bridge-v1.0.6.zip"
 }
