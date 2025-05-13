@@ -1,6 +1,6 @@
 {
   "name": "Resistance at the Ponteville Bridge",
-  "img": "worlds/owb-ponteville-bridge/assets/europe-1940.jpg",
+  "img": "modules/owb-ponteville-bridge/assets/europe-1940.jpg",
   "caption": "Resistance at the Ponteville Bridge is an introductory support mission for a group of three to six operatives of 1st-3rd level.",
   "sort": 0,
   "description": "<p>The Allies are planning a large raid on the fictional port city of St. Croix la Mer and the characters must destroy a key set of crossings in order to prevent German reinforcements from reaching the coast. The mission is a \"mini-sandbox\" that includes sabotage as well as opportunities for combat and roleplaying, so a good mix of Character Classes is suggested.</p><p> </p><p>This is the introductory scenario included in the WWII:Operation WhiteBox rules, all textual content is copyright Small Niche Games ™, and are reproduced by kind permission of Peter C. Spahn.</p>",
@@ -16014,7 +16014,7 @@
         {
           "name": "Map",
           "type": "image",
-          "src": "worlds/owb-ponteville-bridge/assets/ponteville-map.png",
+          "src": "modules/owb-ponteville-bridge/assets/ponteville-map.png",
           "title": {
             "show": false,
             "level": 1
@@ -17876,7 +17876,7 @@
         "y": 2210,
         "scale": 0.44
       },
-      "thumb": "worlds/owb-ponteville-bridge/scenes/thumbs/1zUbbnwIMmi4S2zz.png",
+      "thumb": "modules/owb-ponteville-bridge/scenes/thumbs/1zUbbnwIMmi4S2zz.png",
       "width": 5008,
       "height": 2790,
       "padding": 0.25,
@@ -17980,7 +17980,7 @@
         "HhnWBl4ct8mgv92y": 3
       },
       "background": {
-        "src": "worlds/owb-ponteville-bridge/assets/europe-1940.jpg",
+        "src": "modules/owb-ponteville-bridge/assets/europe-1940.jpg",
         "offsetX": 0,
         "offsetY": 0,
         "anchorX": 0,
@@ -18054,7 +18054,7 @@
         "y": 1147,
         "scale": 0.87
       },
-      "thumb": "worlds/owb-ponteville-bridge/scenes/thumbs/jkVSwdnloCos0Bg0.png",
+      "thumb": "modules/owb-ponteville-bridge/scenes/thumbs/jkVSwdnloCos0Bg0.png",
       "width": 1820,
       "height": 1400,
       "padding": 0,
@@ -19274,7 +19274,7 @@
         "HhnWBl4ct8mgv92y": 3
       },
       "background": {
-        "src": "/worlds/owb-ponteville-bridge/assets/cellar.webp",
+        "src": "/modules/owb-ponteville-bridge/assets/cellar.webp",
         "offsetX": 0,
         "offsetY": 0,
         "anchorX": 0,
@@ -19348,7 +19348,7 @@
         "y": null,
         "scale": 0.5
       },
-      "thumb": "worlds/owb-ponteville-bridge/scenes/thumbs/KHhrtCMr9KeDIR3r.png",
+      "thumb": "modules/owb-ponteville-bridge/scenes/thumbs/KHhrtCMr9KeDIR3r.png",
       "width": 1820,
       "height": 1400,
       "padding": 0,
@@ -20565,7 +20565,7 @@
         "HhnWBl4ct8mgv92y": 3
       },
       "background": {
-        "src": "/worlds/owb-ponteville-bridge/assets/first.webp",
+        "src": "/modules/owb-ponteville-bridge/assets/first.webp",
         "offsetX": 0,
         "offsetY": 0,
         "anchorX": 0,
@@ -20643,7 +20643,7 @@
         "y": 2425,
         "scale": 0.38
       },
-      "thumb": "worlds/owb-ponteville-bridge/scenes/thumbs/fIaNgBfeB94QWxN8.png",
+      "thumb": "modules/owb-ponteville-bridge/scenes/thumbs/fIaNgBfeB94QWxN8.png",
       "width": 4000,
       "height": 3500,
       "padding": 0.05,
@@ -21107,7 +21107,7 @@
         "HhnWBl4ct8mgv92y": 3
       },
       "background": {
-        "src": "worlds/owb-ponteville-bridge/assets/ponteville.jpg",
+        "src": "modules/owb-ponteville-bridge/assets/ponteville.jpg",
         "offsetX": 0,
         "offsetY": 0,
         "anchorX": 0,
@@ -21181,7 +21181,7 @@
         "y": null,
         "scale": 0.5
       },
-      "thumb": "worlds/owb-ponteville-bridge/scenes/thumbs/x0qg5oHSpaAFgL0V.png",
+      "thumb": "modules/owb-ponteville-bridge/scenes/thumbs/x0qg5oHSpaAFgL0V.png",
       "width": 1820,
       "height": 1400,
       "padding": 0,
@@ -23251,7 +23251,7 @@
         "HhnWBl4ct8mgv92y": 3
       },
       "background": {
-        "src": "/worlds/owb-ponteville-bridge/assets/ground.webp",
+        "src": "/modules/owb-ponteville-bridge/assets/ground.webp",
         "offsetX": 0,
         "offsetY": 0,
         "anchorX": 0,
