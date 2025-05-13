@@ -1,0 +1,49 @@
+{
+  "id": "owb-ponteville-bridge",
+  "title": "OWB Ponteville Bridge",
+  "version": "1.0.5",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "13"
+  },
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "adventure",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "system": "owb",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "owb-content",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "owb",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Resistance at the Ponteville Bridge is an introductory support mission for a group of three to six operatives of 1st-3rd level.\n\nThe Allies are planning a large raid on the fictional port city of St. Croix la Mer and the characters must destroy a key set of crossings in order to prevent German reinforcements from reaching the coast.",
+  "authors": [
+    {
+      "name": "Chris Sharp",
+      "discord": "chrissharp",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/chrisesharp/foundryvtt-owb-ponteville",
+  "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/src/module.json",
+  "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/package/owb-ponteville-bridge-v1.0.5.zip"
+}
